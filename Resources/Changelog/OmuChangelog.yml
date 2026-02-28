@@ -2260,3 +2260,11 @@ Entries:
         raised to 10 telecrystals.
   id: 284
   time: '2026-02-28T15:59:41.0000000+00:00'
+- author: raincall
+  changes:
+    - type: Add
+      message: >-
+        Syndie EVA slowdown removed, now listed for 10tc. I ate all of the
+        durathread. i am NOT sorry.
+  id: 285
+  time: '2026-02-28T16:02:12.0000000+00:00'
