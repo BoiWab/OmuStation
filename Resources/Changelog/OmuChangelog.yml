@@ -2506,3 +2506,9 @@ Entries:
       message: Removed paused asakim shuttle from ghost warp
   id: 315
   time: '2026-03-10T00:16:37.0000000+00:00'
+- author: raincall
+  changes:
+    - type: Fix
+      message: Oil packs no longer turn into bloodpacks when you split the stacks
+  id: 316
+  time: '2026-03-10T00:18:17.0000000+00:00'
