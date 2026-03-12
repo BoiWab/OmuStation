@@ -2546,3 +2546,9 @@ Entries:
       message: Command maid role now can be tracked by BSO.
   id: 321
   time: '2026-03-11T10:39:45.0000000+00:00'
+- author: distraughtcat
+  changes:
+    - type: Tweak
+      message: Resprited chimera and chimera biomass textures.
+  id: 322
+  time: '2026-03-12T00:39:21.0000000+00:00'
