@@ -2746,3 +2746,9 @@ Entries:
       message: Detectives can only pick the inspector or terminus in their loadout now.
   id: 349
   time: '2026-03-21T21:11:31.0000000+00:00'
+- author: NotActuallyMarty
+  changes:
+    - type: Tweak
+      message: The Automated Trade Station now spawns further away from the station.
+  id: 350
+  time: '2026-03-21T21:15:55.0000000+00:00'
